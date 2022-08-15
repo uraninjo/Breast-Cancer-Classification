@@ -8,3 +8,5 @@ Yukarıdaki veri setlerini kullanarak PyTorch ile classification modelleri oluş
 
 Modeller birbirleri arasında kötü sonuçlar veriyor. Bunu da aradaki pixel farklarını kullanarak açıklıyorum. İlki 50x50 pixelken diğeri 700x460 pixeldir.
 Bunun aradaki sapmayı açıklayacağını düşünüyorum...
+
+Kaggle Notebook Linki: https://www.kaggle.com/code/uraninjo/pytorch-resnet18-97-accuracy/notebook
