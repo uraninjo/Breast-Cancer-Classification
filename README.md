@@ -1,6 +1,7 @@
 # Breast-Cancer-Classification
 
 First Dataset: https://www.kaggle.com/datasets/paultimothymooney/breast-histopathology-images
+
 Second Dataset: https://www.kaggle.com/datasets/anaselmasry/breast-cancer-dataset
 
 Yukarıdaki veri setlerini kullanarak PyTorch ile classification modelleri oluşturdum. İlkinde %90.4 accuracy'e, ikincisinde %98.7 accuracy'e ulaştım.
